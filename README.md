@@ -1,6 +1,3 @@
-Exploratory-Data-Analysis-Coursera
-==================================
-
 # Exploratory Data Analysis, Coursera
 
 This is project 1 for the course Exploratory Data Analysis in Coursera.
